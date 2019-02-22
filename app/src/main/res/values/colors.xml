@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    //background
+    <color name="background">#ffdab9</color>
+    <color name="background_locked">#f8bbd0</color>
+    <color name="background_unlocked">#c8e6c9</color>
+    <color name="background_main">#ef9a9a</color>
+
+
+    //ripple
+    <color name="icon_ripple">@android:color/white</color>
+    <color name="main_button_ripple">#e0e0e0</color>
+    <color name="dialog_button_ripple">#e0e0e0</color>
+
+
+    //solid
+    <color name="main_button_solid">#fff</color>
+    <color name="dialog_background">#a1887f</color>
+    <color name="dialog_top_color">#6d4c41</color>
+    <color name="dialog_button_solid">#fff</color>
+    <color name="dialog_progress_bar">#ffdab9</color>
+
+
+
+    //text color
+    <color name="logo_title_text_color">#616161</color>
+    <color name="main_button_text_color">#000</color>
+    <color name="secondary_button_text_color">#000</color>
+    <color name="message_text_color_success">@android:color/holo_green_light</color>
+    <color name="message_text_color_failure">@android:color/holo_red_light</color>
+    <color name="dialog_button_text_color">#000</color>
+    <color name="dialog_message_text_color">#fff</color>
+    <color name="restore_description_text_color">#000</color>
+
+
+
+
+    <color name="separator_color">@android:color/darker_gray</color>
+
+</resources>

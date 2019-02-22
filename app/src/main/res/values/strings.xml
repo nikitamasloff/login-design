@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">LaunchDesign</string>
+
+    <string name="title_log_in">Log in</string>
+    <string name="title_sign_up">Sign up</string>
+    <string name="title_restore">Restore password</string>
+
+    <string name="logo_title">Example</string>
+
+    <string name="log_out">Log out</string>
+
+    //input fields
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="restore">Email</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="email">*Email</string>
+
+    //buttons
+    <string name="button_log_in">Log in</string>
+    <string name="button_sign_up">Sign up</string>
+    <string name="button_forgot_password">Forgot password</string>
+    <string name="button_restore">Restore</string>
+
+
+    //message
+    <string name="message_success">Successful!</string>
+    <string name="message_error">Wrong login or password, try again!</string>
+    <string name="message_restore">Enter your recovery email. \nRestore instructions will be sent</string>
+    <string name="message_different_passwords">Different passwords</string>
+    <string name="message_login_already_exist">Login already exist</string>
+    <string name="login_template">login:    %1$s</string>
+    <string name="password_template">password: %1$s</string>
+
+
+    //dialog
+    <string name="dialog_button_text">Log in via %1$s</string>
+    <string name="facebook">Facebook</string>
+    <string name="twitter">Twitter</string>
+    <string name="vk">VKontakte</string>
+    <string name="google">Google+</string>
+
+
+
+</resources>
